@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Droid</string>
+    <string name="_1_player">1 joueur</string>
+    <string name="_2_players">2 joueurs</string>
+    <string name="back_to_main_menu">Retour au menu principal</string>
+    <string name="circle">Cercle</string>
+    <string name="circle2">Cercle</string>
+    <string name="circle3">Cercle</string>
+    <string name="computer_difficulty">Difficulté de l\'ordinateur</string>
+    <string name="copyright_ndank_stuff_corporation_nall_rights_reserved">Copyright %1$d © \nDank Stuff Corporation\nTous droits reservés</string>
+    <string name="cross">Croix</string>
+    <string name="cross2">Croix</string>
+    <string name="cross3">Croix</string>
+    <string name="dumb">Idiot</string>
+    <string name="easy">Facile</string>
+    <string name="hard">Difficile</string>
+    <string name="fonctionindisponible">Nous sommes desolés, cette option n\'est pas disponible actuellement. Nous travaillons dessus pour la prochaine mise à jour.</string>
+    <string name="help">Aide</string>
+    <string name="how_many_people_are_playing">Combien de personnes jouent ?</string>
+    <string name="medium">Moyen</string>
+    <string name="options">Options</string>
+    <string name="options2">Options</string>
+    <string name="play">Jouer</string>
+    <string name="replay">Rejouer</string>
+    <string name="starting_symbol">Symbole qui commence</string>
+    <string name="statistics">Statistiques</string>
+    <string name="tic_tac_droid">Tic-Tac-Droid</string>
+    <string name="make_computer_think_faster">Faire réfléchir l\'ordinateur plus vite</string>
+    <string name="computer">Ordinateur</string>
+    <string name="player_1_apos_s_turn">Au tour de %1$s</string>
+    <string name="human">Humain</string>
+    <string name="texte_victoire">%1$s est victorieux !</string>
+    <string name="texte_egalite">Personne n\'a gagné</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ADMOB_application" translatable="false">ca-app-pub-3827361003756128~7737250695</string>
+    <string name="ADMOB_banniere" translatable="false">ca-app-pub-3827361003756128/9213983892</string>
+    <string name="TESTGOOGLE_banniere" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
